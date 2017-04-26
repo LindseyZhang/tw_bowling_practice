@@ -1,6 +1,4 @@
-/**
- * Created by twer on 3/28/14.
- */
+
 public class HelloWorld {
     private Dependency dependency;
 
